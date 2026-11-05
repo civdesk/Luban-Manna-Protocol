@@ -1,0 +1,6 @@
+{
+  "name": "Manna Micro-Nanorobot RL Controller",
+  "description": "Reinforcement learning control system and Stokesian propulsion dynamics benchmark for Manna micro-nanorobots under low Reynolds number hydrodynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
